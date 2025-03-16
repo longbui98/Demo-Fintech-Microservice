@@ -1,0 +1,5 @@
+Name: user-api
+Host: 0.0.0.0
+Port: 8080
+Database:
+  DataSource: root:tonyking123@tcp(localhost:3306)/micro?charset=utf8mb4&parseTime=True&loc=Local
